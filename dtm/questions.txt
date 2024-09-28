@@ -1,0 +1,27 @@
+1. (HARD) Haftada necha kun bor.
+Javoblar:
+7 kun
+6 kun
+5 kun
+4 kun
+----------------------------------------
+2. (MEDIUM) Mart oyida necha kun bor
+Javoblar:
+31 kun
+6 kun
+5 kun
+30 kun
+----------------------------------------
+3. (EASY) Sutkada necha soat bor
+Javoblar:
+24 soat
+6 soat
+5 soat
+4 soat
+----------------------------------------
+4. (HARD) Kabisa yilida fevral oyida necha kun bor
+Javoblar:
+29 kun
+16 kun
+34 kun
+40 kun

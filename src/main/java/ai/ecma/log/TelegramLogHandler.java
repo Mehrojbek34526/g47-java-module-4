@@ -45,9 +45,7 @@ public class TelegramLogHandler extends StreamHandler {
 
         try {
             HttpClient client = HttpClient.newHttpClient();
-            HttpRequest request = HttpRequest.newBuilder().POST(
-                    HttpRequest.BodyPublishers.ofString(bodyJson)
-            )
+            HttpRequest request = HttpRequest.newBuilder().POST(HttpRequest.BodyPublishers.ofString(bodyJson))
                     .uri(URI.create(url))
                     .setHeader("Content-Type", "application/json")
                     .build();
